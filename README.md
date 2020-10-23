@@ -7,7 +7,7 @@ In this project, we will make use of Python to explore data related to bike shar
 ### What Software Do I need?
 To complete this project, the following software requirements apply:
  * We should have Python 3, NumPy, and pandas
- * A text editor, like [Sublime](https://www.sublimetext.com/) or [Atom](https://atom.io/).
+ * A text editor
  * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ## Project Details
